@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aadvik",
+    "degree": "B.Tech",
+    "branch": "Computer Science",
+    "cgpa": 8.7,
+    "skills": ["Java", "Spring Boot", "SQL", "React"],
+    "preferred_sector": "IT",
+    "preferred_location": "Bengaluru",
+    "category": "General",
+    "district": "Gautam Buddha Nagar"
+  },
+  {
+    "id": 2,
+    "name": "Rahul",
+    "degree": "B.Tech",
+    "branch": "Computer Science",
+    "cgpa": 8.4,
+    "skills": ["Python", "Machine Learning", "SQL"],
+    "preferred_sector": "IT",
+    "preferred_location": "Hyderabad",
+    "category": "General",
+    "district": "Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "degree": "B.Tech",
+    "branch": "Information Technology",
+    "cgpa": 8.1,
+    "skills": ["Java", "SQL", "Spring Boot"],
+    "preferred_sector": "IT",
+    "preferred_location": "Bengaluru",
+    "category": "OBC",
+    "district": "Lucknow"
+  },
+  {
+    "id": 4,
+    "name": "Arjun",
+    "degree": "B.Tech",
+    "branch": "Computer Science",
+    "cgpa": 7.9,
+    "skills": ["React", "JavaScript", "HTML", "CSS"],
+    "preferred_sector": "IT",
+    "preferred_location": "Hyderabad",
+    "category": "General",
+    "district": "Jaipur"
+  },
+  {
+    "id": 5,
+    "name": "Sneha",
+    "degree": "B.Tech",
+    "branch": "Computer Science",
+    "cgpa": 8.3,
+    "skills": ["Python", "SQL", "Data Analysis"],
+    "preferred_sector": "IT",
+    "preferred_location": "Hyderabad",
+    "category": "SC",
+    "district": "Patna"
+  }
+]

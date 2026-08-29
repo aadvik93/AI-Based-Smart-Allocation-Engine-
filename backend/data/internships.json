@@ -1,0 +1,152 @@
+[
+  {
+    "id": 101,
+    "company": "TechNova Solutions",
+    "title": "Java Backend Developer Intern",
+    "sector": "IT",
+    "required_skills": [
+      "Java",
+      "Spring Boot",
+      "SQL"
+    ],
+    "location": "Bengaluru",
+    "seats": 1,
+    "minimum_cgpa": 7.5,
+    "duration": "6 months"
+  },
+  {
+    "id": 102,
+    "company": "DataSphere Technologies",
+    "title": "Data Science Intern",
+    "sector": "IT",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL"
+    ],
+    "location": "Hyderabad",
+    "seats": 2,
+    "minimum_cgpa": 7.5,
+    "duration": "6 months"
+  },
+  {
+    "id": 103,
+    "company": "WebCraft Labs",
+    "title": "Frontend Developer Intern",
+    "sector": "IT",
+    "required_skills": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "location": "Hyderabad",
+    "seats": 1,
+    "minimum_cgpa": 7.0,
+    "duration": "4 months"
+  },
+  {
+    "id": 104,
+    "company": "NewTech Solutions",
+    "title": "Python Developer Intern",
+    "sector": "IT",
+    "required_skills": [
+      "Python",
+      "SQL"
+    ],
+    "location": "Bengaluru",
+    "seats": 2,
+    "minimum_cgpa": 7.0,
+    "duration": "6 months"
+  },
+  {
+    "id": 105,
+    "company": "TechNova Solutions",
+    "title": "AI Developer Intern",
+    "sector": "Technology",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL"
+    ],
+    "location": "Bengaluru",
+    "seats": 2,
+    "minimum_cgpa": 7.5,
+    "duration": "6 months"
+  },
+  {
+    "id": 106,
+    "company": "DataSphere Technologies",
+    "title": "Data Analyst Intern",
+    "sector": "Data Science",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "location": "Bengaluru",
+    "seats": 2,
+    "minimum_cgpa": 7.0,
+    "duration": "6 months"
+  },
+  {
+    "id": 107,
+    "company": "DataSphere Technologies",
+    "title": "Python Developer Intern",
+    "sector": "IT",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "FastAPI"
+    ],
+    "location": "Bengaluru",
+    "seats": 2,
+    "minimum_cgpa": 7.0,
+    "duration": "6 months"
+  },
+  {
+    "id": 108,
+    "company": "DataSphere Technologies",
+    "title": "Software Development Intern",
+    "sector": "IT",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "React"
+    ],
+    "location": "Bengaluru",
+    "seats": 5,
+    "minimum_cgpa": 7.5,
+    "duration": "6 months"
+  },
+  {
+    "id": 109,
+    "company": "DataSphere Technologies",
+    "title": "Web Development Intern",
+    "sector": "IT",
+    "required_skills": [
+      "React",
+      "JavaScript",
+      "HTML"
+    ],
+    "location": "Noida",
+    "seats": 2,
+    "minimum_cgpa": 7.5,
+    "duration": "6 months"
+  },
+  {
+    "id": 110,
+    "company": "DataSphere Technologies",
+    "title": "AI Developer Intern",
+    "sector": "Technology",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL"
+    ],
+    "location": "Bengaluru",
+    "seats": 2,
+    "minimum_cgpa": 7.5,
+    "duration": "6 months"
+  }
+]

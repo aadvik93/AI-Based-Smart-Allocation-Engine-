@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1001,
+    "student_id": 1,
+    "internship_id": 101,
+    "status": "pending",
+    "score": 88.66,
+    "ai_score": 74.89,
+    "reasons": [
+      "AI compatibility: 74.89%",
+      "Matched 3 required skill(s)",
+      "Preferred location matched",
+      "CGPA score: 8.70/10",
+      "Preferred sector matched"
+    ]
+  },
+  {
+    "id": 1002,
+    "student_id": 2,
+    "internship_id": 102,
+    "status": "allocated",
+    "score": 86.9,
+    "ai_score": 71.26,
+    "reasons": [
+      "CGPA requirement satisfied",
+      "3 required skill(s) matched",
+      "Preferred sector matched",
+      "AI compatibility: 71.26%",
+      "Matched 3 required skill(s)",
+      "Preferred location matched",
+      "CGPA score: 8.40/10",
+      "Preferred sector matched"
+    ]
+  },
+  {
+    "id": 1003,
+    "student_id": 3,
+    "internship_id": 101,
+    "status": "pending",
+    "score": 87.91,
+    "ai_score": 74.52,
+    "reasons": [
+      "AI compatibility: 74.52%",
+      "Matched 3 required skill(s)",
+      "Preferred location matched",
+      "CGPA score: 8.10/10",
+      "Preferred sector matched"
+    ]
+  },
+  {
+    "id": 1004,
+    "student_id": 4,
+    "internship_id": 103,
+    "status": "pending",
+    "score": 84.96,
+    "ai_score": 67.66,
+    "reasons": [
+      "AI compatibility: 67.66%",
+      "Matched 4 required skill(s)",
+      "Preferred location matched",
+      "CGPA score: 7.90/10",
+      "Preferred sector matched"
+    ]
+  },
+  {
+    "id": 1005,
+    "student_id": 5,
+    "internship_id": 102,
+    "status": "allocated",
+    "score": 77.02,
+    "ai_score": 71.81,
+    "reasons": [
+      "CGPA requirement satisfied",
+      "2 required skill(s) matched",
+      "Preferred sector matched",
+      "AI compatibility: 71.81%",
+      "Matched 2 required skill(s)",
+      "Preferred location matched",
+      "CGPA score: 8.30/10",
+      "Preferred sector matched"
+    ]
+  },
+  {
+    "id": 1006,
+    "student_id": 1,
+    "internship_id": 103,
+    "status": "pending",
+    "score": 49.78,
+    "ai_score": 58.94,
+    "reasons": [
+      "AI compatibility: 58.94%",
+      "Matched 1 required skill(s)",
+      "Preferred location did not match",
+      "CGPA score: 8.70/10",
+      "Preferred sector matched"
+    ]
+  },
+  {
+    "id": 1007,
+    "student_id": 1,
+    "internship_id": 102,
+    "status": "not_selected"
+  },
+  {
+    "id": 1008,
+    "student_id": 1,
+    "internship_id": 104,
+    "status": "pending",
+    "score": 67.17,
+    "ai_score": 58.68,
+    "reasons": [
+      "AI compatibility: 58.68%",
+      "Matched 1 required skill(s)",
+      "Preferred location matched",
+      "CGPA score: 8.70/10",
+      "Preferred sector matched"
+    ]
+  },
+  {
+    "id": 1009,
+    "student_id": 1,
+    "internship_id": 106,
+    "status": "not_selected"
+  },
+  {
+    "id": 1010,
+    "student_id": 1,
+    "internship_id": 107,
+    "status": "not_selected"
+  },
+  {
+    "id": 1011,
+    "student_id": 3,
+    "internship_id": 107,
+    "status": "allocated",
+    "score": 61.86,
+    "ai_score": 59.39,
+    "reasons": [
+      "CGPA requirement satisfied",
+      "1 required skill(s) matched",
+      "Preferred sector matched",
+      "AI compatibility: 59.39%",
+      "Matched 1 required skill(s)",
+      "Preferred location matched",
+      "CGPA score: 8.10/10",
+      "Preferred sector matched"
+    ]
+  },
+  {
+    "id": 1012,
+    "student_id": 4,
+    "internship_id": 101,
+    "status": "pending",
+    "score": 42.03,
+    "ai_score": 60.32,
+    "reasons": [
+      "AI compatibility: 60.32%",
+      "No required skills matched",
+      "Preferred location did not match",
+      "CGPA score: 7.90/10",
+      "Preferred sector matched"
+    ]
+  },
+  {
+    "id": 1013,
+    "student_id": 2,
+    "internship_id": 105,
+    "status": "pending",
+    "score": 61.8,
+    "ai_score": 58.5,
+    "reasons": [
+      "AI compatibility: 58.50%",
+      "Matched 3 required skill(s)",
+      "Preferred location did not match",
+      "CGPA score: 8.40/10",
+      "Preferred sector did not match"
+    ]
+  },
+  {
+    "id": 1014,
+    "student_id": 2,
+    "internship_id": 104,
+    "status": "pending",
+    "score": 75.6,
+    "ai_score": 68.0,
+    "reasons": [
+      "AI compatibility: 68.00%",
+      "Matched 2 required skill(s)",
+      "Preferred location did not match",
+      "CGPA score: 8.40/10",
+      "Preferred sector matched"
+    ]
+  },
+  {
+    "id": 1015,
+    "student_id": 1,
+    "internship_id": 108,
+    "status": "allocated",
+    "score": 75.64,
+    "ai_score": 67.35,
+    "reasons": [
+      "CGPA requirement satisfied",
+      "2 required skill(s) matched",
+      "Preferred sector matched",
+      "AI compatibility: 67.35%",
+      "Matched 2 required skill(s)",
+      "Preferred location matched",
+      "CGPA score: 8.70/10",
+      "Preferred sector matched"
+    ]
+  },
+  {
+    "id": 1016,
+    "student_id": 4,
+    "internship_id": 108,
+    "status": "not_selected"
+  },
+  {
+    "id": 1017,
+    "student_id": 3,
+    "internship_id": 102,
+    "status": "not_selected"
+  },
+  {
+    "id": 1018,
+    "student_id": 1,
+    "internship_id": 110,
+    "status": "not_selected"
+  },
+  {
+    "id": 1019,
+    "student_id": 4,
+    "internship_id": 107,
+    "status": "not_selected"
+  },
+  {
+    "id": 1020,
+    "student_id": 2,
+    "internship_id": 103,
+    "status": "pending"
+  },
+  {
+    "id": 1021,
+    "student_id": 4,
+    "internship_id": 110,
+    "status": "not_selected"
+  },
+  {
+    "id": 1022,
+    "student_id": 2,
+    "internship_id": 110,
+    "status": "not_selected"
+  },
+  {
+    "id": 1023,
+    "student_id": 4,
+    "internship_id": 109,
+    "status": "allocated",
+    "score": 73.94,
+    "ai_score": 65.1,
+    "reasons": [
+      "CGPA requirement satisfied",
+      "3 required skill(s) matched",
+      "Preferred sector matched",
+      "AI compatibility: 65.10%",
+      "Matched 3 required skill(s)",
+      "Preferred location did not match",
+      "CGPA score: 7.90/10",
+      "Preferred sector matched"
+    ]
+  }
+]
