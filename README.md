@@ -403,7 +403,7 @@ A formal open-source license can be added to the repository as the project matur
 **AI-Based Smart Allocation Engine**
 
 GitHub:
-https://github.com/aadvik93/AI-Based-Smart-Allocation-Engine
+https://github.com/aadvik93/AI-Based-Smart-Allocation-Engine-
 
 ---
 
